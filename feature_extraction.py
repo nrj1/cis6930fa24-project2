@@ -41,4 +41,4 @@ def extract_pos_ner(text):
         'num_verbs': len([word for word, pos in pos_tags if pos.startswith('VB')]),
         'num_ner': len([chunk for chunk in ner_tags if hasattr(chunk, 'label')])
     })
-#extraction
+    #extraction

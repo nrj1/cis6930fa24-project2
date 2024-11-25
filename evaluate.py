@@ -6,4 +6,4 @@ def evaluate_model(y_true, y_pred):
     print(f"Precision: {precision:.4f}")
     print(f"Recall: {recall:.4f}")
     print(f"F1-score: {f1:.4f}")
-#evaluate
+    #evaluate
