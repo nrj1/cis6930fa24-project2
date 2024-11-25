@@ -7,3 +7,4 @@ def train_model(X_train, y_train):
 
 def predict(model, X_val):
     return model.predict(X_val)
+#model
