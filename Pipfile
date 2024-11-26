@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 scikit-learn = "*"
+nltk = "*"
+pandas = "*"
+numpy = "*"
 
-[dev-   ]
+[dev-packages]
 
 [requires]
 python_version = "3.10"
