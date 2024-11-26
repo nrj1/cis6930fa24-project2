@@ -79,3 +79,8 @@ python unredactor.py
 Note: The project uses a Logistic Regression model with L2 regularization for name prediction. The feature extraction process includes n-grams, redaction length, and basic NLP features (POS tags and Named Entity Recognition).
 
 ## Output
+
+![Screenshot 2024-11-26 021147](https://github.com/user-attachments/assets/64b81f87-102e-4fcc-b4de-2c3df2a27234)
+
+![Screenshot 2024-11-26 021226](https://github.com/user-attachments/assets/6eeb9e79-8fe6-409b-a211-52ac1418e26c)
+
