@@ -77,3 +77,5 @@ python unredactor.py
 6. `evaluate_model(y_true, y_pred)` in `evaluate.py`: Calculates and prints precision, recall, and F1-score for the model's predictions.
 
 Note: The project uses a Logistic Regression model with L2 regularization for name prediction. The feature extraction process includes n-grams, redaction length, and basic NLP features (POS tags and Named Entity Recognition).
+
+## Output
